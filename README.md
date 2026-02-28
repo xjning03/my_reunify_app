@@ -1,16 +1,47 @@
-# my_reunify_app
+REUNIFY
+AI-Assisted Deterministic Child Reunification System
 
-A new Flutter project.
+Reunify is a deterministic AI-assisted inference system designed to support missing child reunification through structured memory interpretation and rule-based geographic reasoning.
 
-## Getting Started
+This Flutter project contains the working prototype of the Reunify inference engine and user interface.
 
-This project is a starting point for a Flutter application.
+⚠️ Prototype Notice
 
-A few resources to get you started if this is your first Flutter project:
+This project is currently a functional prototype.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+No external APIs (Gemini, Google Maps, Google Places) are integrated yet.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All services use mock or abstract implementations.
+
+The inference, scoring, and matching logic are fully implemented and deterministic.
+
+The core architecture and reasoning pipeline are designed to remain the same when real APIs are integrated in the future. Only the data retrieval layers will change — the deterministic inference logic will not.
+
+📌 Important: Read Documentation First
+
+Before running the application, please review the Documentation folder.
+
+All detailed explanations about the system are provided there.
+
+Documentation/
+│
+├── Slides.pdf                 → Project presentation slides
+├── README_ARCHITECTURE.md     → Full system architecture explanation
+├── README_DEMO.md             → Step-by-step demo guide
+📖 Recommended Reading Order
+
+1️⃣ README_ARCHITECTURE.md
+Understand the deterministic inference pipeline and system design.
+
+2️⃣ README_DEMO.md
+See how to run and test the system with example memory inputs.
+
+3️⃣ Slides.pdf
+Presentation overview of the project objectives, SDGs, and technical contribution.
+
+🚀 Running the Application
+
+After reviewing the documentation:
+
+flutter pub get
+flutter run
