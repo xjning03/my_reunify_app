@@ -35,13 +35,13 @@ Documentation/
 
 ### 📖 Recommended Reading Order
 
-1️⃣ **README_ARCHITECTURE.md.url**  
+1️⃣ **README_ARCHITECTURE.md**  
 Understand the deterministic inference pipeline and system design.
 
-2️⃣ **README_DEMO.md.url**  
+2️⃣ **README_DEMO.md**  
 See how to run and test the system with example memory inputs.
 
-3️⃣ **KitaHack Presentation Slide.pdf.url**  
+3️⃣ **KitaHack Presentation Slide.pdf**  
 Presentation overview of the project objectives, SDGs, and technical contribution.
 
 ---
