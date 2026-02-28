@@ -28,20 +28,20 @@ All detailed explanations about the system are provided there.
 ```
 Documentation/
 │
-├── Slides.pdf                 → Project presentation slides
-├── README_ARCHITECTURE.md     → Full system architecture explanation
-├── README_DEMO.md             → Step-by-step demo guide
+├── KitaHack Presentation Slide.pdf.url    → Project presentation slides
+├── README_ARCHITECTURE.md.url             → Full system architecture explanation
+├── README_DEMO.md.url                     → Step-by-step demo guide
 ```
 
 ### 📖 Recommended Reading Order
 
-1️⃣ **README_ARCHITECTURE.md**  
+1️⃣ **README_ARCHITECTURE.md.url**  
 Understand the deterministic inference pipeline and system design.
 
-2️⃣ **README_DEMO.md**  
+2️⃣ **README_DEMO.md.url**  
 See how to run and test the system with example memory inputs.
 
-3️⃣ **Slides.pdf**  
+3️⃣ **KitaHack Presentation Slide.pdf.url**  
 Presentation overview of the project objectives, SDGs, and technical contribution.
 
 ---
